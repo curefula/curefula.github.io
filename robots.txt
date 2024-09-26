@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://curefula.github.io/sitemap.curefula.gz
+Sitemap: https://curefula.github.io/app/sitemap.curefula.gz
+Sitemap: https://curefula.github.io/assets/sitemap.curefula.gz
+Sitemap: https://curefula.github.io/css/sitemap.curefula.gz
+Sitemap: https://curefula.github.io/data/sitemap.curefula.gz
+Sitemap: https://curefula.github.io/includes/sitemap.curefula.gz
+Sitemap: https://curefula.github.io/item/sitemap.curefula.gz
+Sitemap: https://curefula.github.io/src/sitemap.curefula.gz
